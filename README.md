@@ -1,29 +1,34 @@
-# My First GitHub Project
+# 👋 Živjo, sem Jakob!
 
-## Project Description
+Dobrodošel na mojem GitHubu! Tukaj shranjujem svoje projekte, vadim programiranje in spremljam, kaj se naučim na poti.
 
-This is my first GitHub project. I created this repository to practise writing Markdown and to document my first steps with GitHub and programming.
+## 🧑‍💻 O meni
 
-## What I Learned
+Trenutno se učim **Javo** in **HTML**. Sem še na začetku, zato se največ učim s preizkušanjem, popravljanjem napak in izdelovanjem svojih projektov.
 
-- How to create and manage a GitHub repository
-- How to format text with Markdown headings and lists
-- Why clear commit messages are useful when tracking changes
+## 💡 Moji interesi
 
-## A Fun Fact
+- ₿ **Kriptovalute** – zanimajo me kripto projekti in dogajanje v tem svetu.
+- ⌚ **Ure** – všeč so mi različni modeli in dizajni ur.
+- 💻 **Tehnologija in programiranje** – rad spoznavam nove stvari.
 
-I can turn almost any free moment into a nap. 😴
+## 🎯 Moji cilji
 
-## About Me
+- 🚀 Izboljšati znanje Jave.
+- 🌐 Naučiti se izdelovati spletne strani s HTML-jem.
+- 🛠️ Ustvariti več svojih projektov.
+- 📈 Postopoma napredovati in se učiti iz napak.
 
-I'm Jakob, and I'm learning Java and HTML. Outside programming, I'm interested in cryptocurrencies and watches.
+## 📚 Kaj sem se naučil pri tem projektu?
 
-## My Goals
+- Kako ustvariti in urejati repozitorij na GitHubu.
+- Kako uporabljati naslove, sezname in druge osnove Markdowna.
+- Kako s commiti beležiti spremembe in jim dodati opisna sporočila.
 
-- Improve my Java skills
-- Learn more about HTML and web development
-- Build more projects and keep practising
+## 😴 Zabavno dejstvo
+
+Moj talent? Izkoristiti skoraj vsako prosto minuto za spanec. 😴
 
 ---
 
-*Learning step by step, one commit at a time.*
+✨ **Majhni koraki, novi projekti in vedno nekaj novega za naučiti se.**
